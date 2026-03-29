@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+table,th,tr,td{
+
+border: 2px solid black;
+margin: auto;
+margin-top: 20px;
+padding: 50px;
+border-collapse: collapse;
+}
